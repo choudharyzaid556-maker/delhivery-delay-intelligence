@@ -1,0 +1,1 @@
+shipment_id,hub_id,service_type,payment_mode,parcel_weight_kg,distance_km,declared_value,n_stops,rain_flag,sale_event_flag,dispatch_time,label_print_batch,scanner_build_no,tape_roll_no,sticker_serial_mod,shelf_slot_no,delivery_hours
